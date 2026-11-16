@@ -1,0 +1,930 @@
+{
+  "whatsappNumber": "6283866700323",
+  "products": [
+    {
+      "name": "Beras SPHP 5 kg",
+      "price": 58000,
+      "category": "barang-subsidi",
+      "category_label": "Barang Subsidi",
+      "image": "assets/produk/beras-sphp.jpeg",
+      "emoji": "🌾",
+      "featured": true,
+      "terms": [
+        "Maks. 1 pcs/customer/hari.",
+        "Pembeli wajib membawa FC KK dan KTP asli."
+      ]
+    },
+    {
+      "name": "Fortune pouch 1L",
+      "price": 20800,
+      "category": "minyak-goreng",
+      "category_label": "Minyak",
+      "image": "assets/produk/fortune.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Fourtune pouch 2L",
+      "price": 40800,
+      "category": "minyak-goreng",
+      "category_label": "Minyak",
+      "image": "assets/produk/fortune.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Siip pouch 0.9L",
+      "price": 18800,
+      "category": "minyak-goreng",
+      "category_label": "Minyak",
+      "image": "assets/produk/siip-pouch.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Siip pouch 1.8L",
+      "price": 36900,
+      "category": "minyak-goreng",
+      "category_label": "Minyak",
+      "image": "assets/produk/siip-pouch.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sedaap mie goreng",
+      "price": 3200,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/sedaap-mie-goreng.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomie goreng ayam geprek",
+      "price": 3100,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/indomie-goreng-ayam-geprek.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sedaap mie cup goreng",
+      "price": 5800,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/sedaap-mie-cup-goreng.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomie hypeabis seblak hotjeletot",
+      "price": 3100,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/indomie-hypeabis-seblak-hotjeletot.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomie nyemek banglahdes kari",
+      "price": 3100,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/indomie-nyemek-banglahdes-kari.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomie goreng rendang",
+      "price": 3100,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/indomie-goreng-rendang.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomie soto mie",
+      "price": 3000,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/indomie-soto-mie.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomie kari ayam",
+      "price": 3000,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/indomie-kari-ayam.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Pop mie soto ayam",
+      "price": 4650,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/pop-mie-soto-ayam.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Pop mie ayam bawang",
+      "price": 5100,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/pop-mie-ayam-bawang.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Pop mie bakso",
+      "price": 4650,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/pop-mie-bakso.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Mie telur 3 ayam",
+      "price": 1750,
+      "category": "mie-instan",
+      "category_label": "Mie",
+      "image": "assets/produk/mie-telur-3-ayam.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Natadecoco cup luchee 200 g",
+      "price": 5000,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/natadecoco-cup-luchee.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Jellydrink strawberry 120g 05 pack x10",
+      "price": 8900,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/jellydrink-strawberry.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Minijelly-5s 15g 05cup",
+      "price": 2500,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/Minijelly-5s.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Fruitamin cocobit kelapa muda cup 150 ml",
+      "price": 850,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/fruitamin-cocobit-kelapa-muda-cup.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Pudding puree cup mango 120g",
+      "price": 3900,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/pudding-puree-cup-mango.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Nata de coco selasih strawberry",
+      "price": 4300,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/nata-de-coco.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Mini pudding",
+      "price": 5000,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/mini-pudding.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "I’m coco leci",
+      "price": 6150,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/im-coco-leci.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Floridina orange 350ml",
+      "price": 3000,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/floridina-orange.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Aquaviva btl 1600ml",
+      "price": 4500,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/Aquavival.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "I’m coco mangga",
+      "price": 6150,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/im-coco-mangga.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Tubruk gajah manis rtg (12x10)",
+      "price": 15000,
+      "category": "kopi-teh-susu",
+      "category_label": "Kopi, Teh & Susu",
+      "image": "assets/produk/tubruk-gajah-manis.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Gowell frech vanilla sachet 30g",
+      "price": 1450,
+      "category": "kopi-teh-susu",
+      "category_label": "Kopi, Teh & Susu",
+      "image": "assets/produk/gowell-frech-vanilla-sachet.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Kental manis indomilk saset",
+      "price": 1400,
+      "category": "kopi-teh-susu",
+      "category_label": "Kopi, Teh & Susu",
+      "image": "assets/produk/kental-manis-indomilk-saset.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Dencow renteng",
+      "price": 38050,
+      "category": "kopi-teh-susu",
+      "category_label": "Kopi, Teh & Susu",
+      "image": "assets/produk/dencow-renteng.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sariwangi asli",
+      "price": 6500,
+      "category": "kopi-teh-susu",
+      "category_label": "Kopi, Teh & Susu",
+      "image": "assets/produk/sariwangi-asli.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Potabee regular bbq beef 65gr",
+      "price": 8000,
+      "category": "snack",
+      "category_label": "Snack",
+      "image": "assets/produk/potabee-regular-bbq-beef.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Snack chitato rasa sapi panggang 65g",
+      "price": 8800,
+      "category": "snack",
+      "category_label": "Snack",
+      "image": "assets/produk/snack-chitato-rasa-sapi-panggang.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sania tepung beras 500g",
+      "price": 8500,
+      "category": "bahan-masakan",
+      "category_label": "Bahan Masakan",
+      "image": "assets/produk/sania-tepung-beras.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Palmia",
+      "price": 6400,
+      "category": "bahan-masakan",
+      "category_label": "Bahan Masakan",
+      "image": "assets/produk/Palmia.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Tepung mila 1kg",
+      "price": 10000,
+      "category": "bahan-masakan",
+      "category_label": "Bahan Masakan",
+      "image": "assets/produk/tepung-mila.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Royco bouillon fds power beef 9g",
+      "price": 500,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/royco-bouillon-fds-power-beef.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Bumbu racik marinasi serbaguna 15gr",
+      "price": 900,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/bumbu-racik-marinasi-serbaguna.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Bumbu racik ikan goreng 20gr",
+      "price": 1750,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/bumbu-racik-ikan-goreng.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Royco bouillon powder chicken 94g",
+      "price": 5000,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/royco-bln-powder-chicken.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Royco bln powder chicken pch 230g",
+      "price": 10500,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/royco-bln-powder-chicken.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Royco bouillon fds power chicken 9g",
+      "price": 500,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/royco-bouillon-powder-chicken.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood racik soto",
+      "price": 5450,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/indofood-racik-soto.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood racik rendang",
+      "price": 5450,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/indofood-racik-rendang.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood bumbu racik sayur asam 33gr",
+      "price": 1750,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/indofood-bumbu-racik-sayur-asam.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood bumbu racik ayam goreng 26gr",
+      "price": 1750,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/indofood-bumbu-racik-ayam-goreng.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood bumbu racik nasi goreng 20gr",
+      "price": 1750,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/indofood-bumbu-racik-nasi-goreng.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood bumbu racik sayur sop 20gr",
+      "price": 1750,
+      "category": "bumbu",
+      "category_label": "Bumbu & Penyedap",
+      "image": "assets/produk/indofood-bumbu-racik-sayur-sop.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood kecap 550 g",
+      "price": 13600,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/indofood-kecap.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood kecap 725 g",
+      "price": 16300,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/indofood-kecap.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood kecap manis pet 135ml",
+      "price": 7300,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/indofood-kecap-manis-pet.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood kecap 77g (beli 2 gratis 1)",
+      "price": 2000,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/indofood-kecap-77g.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Kecap bangao 265g",
+      "price": 10000,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/kecap-bangao.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Kecap bango 77g",
+      "price": 3000,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/kecap-bango-25g.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Kecap bango 25g",
+      "price": 1000,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/kecap-bango-25g.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sarden asahi",
+      "price": 9950,
+      "category": "makanan-kaleng",
+      "category_label": "Makanan Kaleng",
+      "image": "assets/produk/sarden-asahi.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood sambal pedas manis",
+      "price": 6500,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/indofood-sambal-pedas-manis.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood saus tomat",
+      "price": 5500,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/indofood-saus-tomat.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indofood sambal extra pedas",
+      "price": 6500,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/indofood-sambal-extra-pedas.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Mama koko santan",
+      "price": 3800,
+      "category": "bahan-masakan",
+      "category_label": "Bahan Masakan",
+      "image": "assets/produk/mama-koko-santan.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Kecap sedap 725g",
+      "price": 23700,
+      "category": "saus-kecap",
+      "category_label": "Saus & Kecap",
+      "image": "assets/produk/kecap-sedap-725g.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Garam pasar rame 250g",
+      "price": 1900,
+      "category": "bahan-masakan",
+      "category_label": "Bahan Masakan",
+      "image": "assets/produk/garam-pasar-rame.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Garam meja refina 500gr",
+      "price": 8150,
+      "category": "bahan-masakan",
+      "category_label": "Bahan Masakan",
+      "image": "assets/produk/garam-meja-refina.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Promina snack keju",
+      "price": 9200,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/promina-snack-keju.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Promina snack seaweed",
+      "price": 9950,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/promina-snack-seaweed.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Promina box ayam",
+      "price": 16000,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/promina-box-ayam.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Promina box salmon",
+      "price": 20000,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/promina-box-salmon.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Promina banana milk",
+      "price": 1700,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/promina-banana-milk.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Promina marie roll",
+      "price": 16550,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/promina-marie-roll.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sun marie kecil",
+      "price": 8550,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/sun-marie-kecil.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sun marie besar",
+      "price": 15100,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/sun-marie-besar.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sun beras merah sachet",
+      "price": 1550,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/sun-beras-merah-sachet.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sun beras merah ekonomis",
+      "price": 7950,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/sun-beras-merah-ekonomis.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sun beras merah kotak",
+      "price": 9450,
+      "category": "makanan-bayi",
+      "category_label": "Makanan Bayi",
+      "image": "assets/produk/sun-beras-merah-kotak.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Bear brand",
+      "price": 10350,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/bear-brand.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomik kids stoberi",
+      "price": 2900,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/indomik-kids-stoberi.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomilk kids vanilla",
+      "price": 2900,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/indomilk-kids-vanilla.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Indomik susu steril",
+      "price": 3750,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/indomik-susu-steril.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Kental manis 3 sapi",
+      "price": 12850,
+      "category": "kopi-teh-susu",
+      "category_label": "Kopi, Teh & Susu",
+      "image": "assets/produk/kental-manis-3-sapi.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Protex daily",
+      "price": 15000,
+      "category": "pembalut",
+      "category_label": "Pembalut",
+      "image": "assets/produk/protex-daily.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Charm safe night 29 cm 2 p",
+      "price": 2200,
+      "category": "pembalut",
+      "category_label": "Pembalut",
+      "image": "assets/produk/charm-safe-night-29-cm-2-p.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Charm extra maxi wing",
+      "price": 5200,
+      "category": "pembalut",
+      "category_label": "Pembalut",
+      "image": "assets/produk/charm-extra-maxi-wing.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Charm extra maxi no wing",
+      "price": 3750,
+      "category": "pembalut",
+      "category_label": "Pembalut",
+      "image": "assets/produk/charm-extra-maxi-no-wing.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Moko moko pants M3",
+      "price": 4650,
+      "category": "popok",
+      "category_label": "Popok",
+      "image": "assets/produk/moko-moko-pants-m3.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Moko moko pants XL3",
+      "price": 6100,
+      "category": "popok",
+      "category_label": "Popok",
+      "image": "assets/produk/moko-moko-pants-xl3.jpeg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Charm safe night wing 35cm 2p",
+      "price": 2200,
+      "category": "pembalut",
+      "category_label": "Pembalut",
+      "image": "assets/produk/charm-safe-night-wing-35cm-2p.jpeg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Charm safe night wing 35cm 5P",
+      "price": 9100,
+      "category": "pembalut",
+      "category_label": "Pembalut",
+      "image": "assets/produk/charm-safe-night-wing-35cm-5p.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Rexona male dsldcrm nap ice cool sch 9g",
+      "price": 2500,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/rexona-male-dsldcrm-nap-ice-cool.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Rexona fmd sdcrm nap ltn free spirit 9g",
+      "price": 2500,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/rexona-fmd-sdcrm-nap-ltn-free-spirit.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Soklin liquid det laven der pch 525ml",
+      "price": 12800,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/soklin-liquid-det-laven-der.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Soklin liquid det perfume pch 700ml",
+      "price": 17500,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/soklin-liquid-det-perfume.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Soklin powdet soft purple bag 700gr np",
+      "price": 14500,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/soklin-powdet-soft-purple.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Daia powder det violet bag 800gr nprg",
+      "price": 15900,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/daia-powder-det-violet.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Daia powder romantic pink bag 800gr nprg",
+      "price": 15900,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/daia-powder-romantic-pink.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Ekonomi pencuci piring jeruk nipis pch 650ml",
+      "price": 6900,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/ekonomi-pencuci-piring-jeruk-nipis.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Mama lemon jeruk nipis pch 690g",
+      "price": 8900,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/mama-lemon-jeruk-nipis.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Scotch brite basic-sabut stainless 15g",
+      "price": 3550,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/scotch-brite-basic-sabut-stainless.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sunlight jeruk nipis pouch 240ml",
+      "price": 5000,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/sunlight-jeruk-nipis-pouch-240ml.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sunlight lime cream sch rl 30x175gr",
+      "price": 1900,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/sunlight-lime-cream-sch-rl-30x175gr.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sunlight lime cream sch rl 12x440gr",
+      "price": 4750,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/sunlight-lime-cream-sch-rl-12x440gr.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Molto sachet",
+      "price": 500,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/molto-sachet.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Ciptadent tp maxi 12 cm 190gr",
+      "price": 10900,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/ciptadent-tp-maxi-12-cm-190gr.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Pepsodent",
+      "price": 5000,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/Pepsodent.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "SUNSILK SHAMPOO SOFT&SMOOTH SACHET 9ML",
+      "price": 1000,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/sunsilk-shampoo-soft-smooth-sachet-hitam.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Clear shampoo ice cool mint sch 11ml",
+      "price": 1000,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/clear-shampoo-ice-cool-mint.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Sunsilk shampoo soft&smooth sachet 9ml",
+      "price": 1000,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/sunsilk-shampoo-soft-smooth-sachet-kuning.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "lifebuoy sabun mild care 60g",
+      "price": 3500,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/lifebuoy-sabun-mild-care.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "nuvo family body wash merah pch 400gr",
+      "price": 19900,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/nuvo-family-body-wash-merah.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "LIFEBUOY SHAMPOO ANTI DANDRUFF 10ML",
+      "price": 500,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/lifebuoy-shampoo-anti-dandruff.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Zinc 170ml",
+      "price": 16900,
+      "category": "perawatan",
+      "category_label": "Perawatan Diri",
+      "image": "assets/produk/zinc-170ml.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "so soft liqdet sweet peony btl 700ml",
+      "price": 19500,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/so-soft-liqdet-sweet-peony.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "so soft liqdet rose & waterlily btl 700ml",
+      "price": 19500,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/so-soft-liqdet-rose-waterlil.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "royale sweet floral pouch 680ml",
+      "price": 14500,
+      "category": "kebersihan",
+      "category_label": "Kebersihan",
+      "image": "assets/produk/royale-sweet-floral-pouch.jpg",
+      "emoji": "🛒"
+    }
+  ]
+}
