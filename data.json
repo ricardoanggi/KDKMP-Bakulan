@@ -15,6 +15,19 @@
       ]
     },
     {
+      "name": "Gas LPG 3 kg",
+      "price": 16000,
+      "category": "barang-subsidi",
+      "category_label": "Barang Subsidi",
+      "image": "assets/produk/gas.jpg",
+      "emoji": "🌾",
+      "featured": true,
+      "terms": [
+        "Maks. 1 pcs/customer/minggu.",
+        "Pembeli wajib membawa FC KK dan KTP asli."
+      ]
+    },
+    {
       "name": "Fortune pouch 1L",
       "price": 20800,
       "category": "minyak-goreng",
