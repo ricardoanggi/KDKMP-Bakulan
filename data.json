@@ -14,7 +14,7 @@
         "Pembeli wajib membawa FC KK dan KTP asli."
       ]
     },
-    {
+      {
       "name": "Gas LPG 3 kg",
       "price": 16000,
       "category": "barang-subsidi",
@@ -26,6 +26,14 @@
         "Maks. 1 pcs/customer/minggu.",
         "Pembeli wajib membawa FC KK dan KTP asli."
       ]
+    },
+    {
+      "name": "Raja Gula",
+      "price": 17500,
+      "category": "barang-subsidi",
+      "category_label": "Barang Subsidi",
+      "image": "assets/produk/raja-gula.jpg",
+      "emoji": "🌾"
     },
     {
       "name": "Fortune pouch 1L",
@@ -244,6 +252,38 @@
       "emoji": "🛒"
     },
     {
+      "name": "Caffino milky espresso",
+      "price": 5500,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/caffino-milky-espresso.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Caffino oat marie latte",
+      "price": 5500,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/caffino-oat-marie.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Caffino oat cappuccino",
+      "price": 5500,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/caffino-oat-cappuccino.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "Hydroplus isotonic 350 ml",
+      "price": 4500,
+      "category": "minuman-jelly",
+      "category_label": "Minuman & Jelly",
+      "image": "assets/produk/hydroplus-isotonic.jpg",
+      "emoji": "🛒"
+    },
+    {
       "name": "Tubruk gajah manis rtg (12x10)",
       "price": 15000,
       "category": "kopi-teh-susu",
@@ -281,6 +321,22 @@
       "category": "kopi-teh-susu",
       "category_label": "Kopi, Teh & Susu",
       "image": "assets/produk/sariwangi-asli.jpg",
+      "emoji": "🛒"
+    },
+    {
+      "name": "FOX'S berries oval candy",
+      "price": 6500,
+      "category": "permen",
+      "category_label": "Permen",
+      "image": "assets/produk/fox-berries.jpg",
+      "emoji": "🛒"
+    },
+        {
+      "name": "FOX'S Fruits oval candy",
+      "price": 6500,
+      "category": "permen",
+      "category_label": "Permen",
+      "image": "assets/produk/fox-fruits.jpg",
       "emoji": "🛒"
     },
     {
